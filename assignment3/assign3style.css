@@ -1,0 +1,65 @@
+p{
+    color: rgb(255, 213, 220);
+    background-color: rgb(92, 167, 167);
+}
+
+
+h1 {
+    color: red ;
+    background-color: blue
+}
+
+
+h2 {
+    color: orange;
+    background-color: purple;
+}
+
+
+h3{ 
+    color: yellow;
+    background-color: magenta;
+}
+
+
+h4{
+    color: greenyellow;
+    background-color: coral;
+}
+
+
+
+a:link{ color: red;}
+
+a:hover{color:yellow;}
+
+a:visited{color:green;}
+
+
+
+
+#div1{
+    color: palevioletred;
+    background-color:rgb(86, 198, 122);
+}
+
+
+
+
+.span1{
+    color:blue;
+    background-color: aqua;
+}
+
+
+
+.retention{
+    color: gold;
+    background-color: black;
+}
+
+
+#specialstandards{ 
+    color: aquamarine;
+    background-color: blueviolet;
+}
