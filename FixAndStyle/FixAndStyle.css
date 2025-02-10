@@ -1,0 +1,71 @@
+
+
+
+h1 {
+    color: rgb(251, 251, 251) ;
+}
+
+
+h2 {
+ color:blue
+}
+
+h3{ 
+background-color: yellow;
+}
+
+h4{
+    color:yellow;
+    background-color: forestgreen;
+}
+
+h5{
+    color:red
+}
+
+
+
+
+#purp {
+    background-color: rgb(165, 166, 255);
+}
+
+#green {
+    background-color: palegreen;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+.span1 {
+    color: orange; 
+    font-weight: bold
+}
+
+
+
+#red {
+    color:#ff0000
+  }
+
+
+
+
+a {
+    color: #00ff00;
+    text-decoration: none;
+  }
+  
+  a:link {
+    color: #00ff00;
+  }
+  
+  a:visited {
+    color: #00ff00;
+  }
+
+  a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+  }        
