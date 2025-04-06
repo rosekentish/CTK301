@@ -1,0 +1,118 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #1b1b1b;
+    color: #ffffff;
+  }
+  
+  #wrapper {
+    margin: 20px auto;
+    max-width: 1200px;
+    padding: 20px;
+    display: grid;
+  }
+  
+  header {
+    margin-bottom: 40px;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0;
+    margin: 0;
+    flex-wrap: wrap;
+  }
+  
+  .nav-links li {
+    text-align: center;
+  }
+  
+  .nav-links li a {
+    display: inline-block;
+    padding: 10px 0;
+    width: 150px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    background-color: #d9a600d2;
+    border-radius: 10px;
+  }
+
+  nav li a:hover {
+    display: inline-block;
+    padding: 10px 0;
+    width: 150px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    background-color: #ffc400d2;
+    border-radius: 10px;
+  }
+  
+
+  .hello {
+    background-color: #404040;
+    border-radius: 25px;
+    padding: 60px;
+    margin: 0 auto 40px;
+    width: 50%;
+    height: 300px;
+    text-align: center;
+  }
+  
+  .hello h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    color: rgba(255, 255, 255, 0.76);
+    font-size: 1.2rem;
+  }
+  
+  .works {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+  }
+  
+  .work-container {
+    display: flex;
+    gap: 20px;
+    max-width: 1000px;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .work-preview {
+    background-color: #eee;
+    color: #000;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 25px;
+    font-size: 1rem;
+  }
+  
+  
+  footer {
+    font-style: italic;
+    text-align: center;
+    color: #000;
+    background-color: #d9a600d2;
+    height: 100px;
+    border-radius: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    width: 100%;
+    border-radius: 25px;
+  }
+  
